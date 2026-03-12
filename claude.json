@@ -1,0 +1,67 @@
+{
+  "cachedGrowthBookFeatures": {
+    "tengu_claudeai_mcp_connectors": true,
+    "tengu_kairos_cron": true,
+    "tengu_herring_clock": false,
+    "tengu_keybinding_customization_release": true,
+    "tengu_marble_whisper": false,
+    "tengu_amber_quartz": false,
+    "tengu_thinkback": false,
+    "tengu_cicada_nap_ms": 0,
+    "tengu_miraculo_the_bard": false,
+    "tengu_miraculo_the_bard2": false,
+    "tengu_paper_halyard": false,
+    "tengu_chomp_inflection": false,
+    "tengu_penguins_off": null,
+    "tengu_desktop_upsell": {
+      "enable_shortcut_tip": false,
+      "enable_startup_dialog": false
+    },
+    "tengu_marble_lantern_disabled": false,
+    "tengu_mcp_elicitation": false,
+    "tengu_pebble_leaf_prune": false,
+    "tengu_swinburne_dune": false,
+    "tengu_coral_fern": false,
+    "tengu_basalt_3kr": false,
+    "tengu_summarize_tool_results": false,
+    "tengu_bergotte_lantern": false,
+    "tengu_sotto_voce": true,
+    "tengu_system_prompt_global_cache": false,
+    "tengu_turtle_carbon": true,
+    "tengu_glacier_2xr": false,
+    "enhanced_telemetry_beta": false,
+    "tengu_streaming_tool_execution2": true,
+    "tengu_moth_copse": false,
+    "tengu_tool_search_unsupported_models": [
+      "haiku"
+    ],
+    "tengu_defer_all_bn4": false,
+    "tengu_fgts": false,
+    "tengu_tst_hint_m7r": false,
+    "tengu_attribution_header": true,
+    "tengu_satin_quoll": {},
+    "tengu_tool_input_aliasing": false,
+    "tengu_event_sampling_config": {},
+    "tengu_frond_boric": {},
+    "tengu_log_segment_events": false,
+    "tengu_log_datadog_events": true,
+    "tengu_marble_anvil": true,
+    "tengu_tool_pear": false,
+    "tengu_scarf_coffee": false,
+    "tengu_tight_weave": true
+  },
+  "firstStartTime": "2026-03-09T23:12:09.308Z",
+  "opusProMigrationComplete": true,
+  "sonnet1m45MigrationComplete": true,
+  "userID": "65392b27a270317088efdf05be76c2b1808d3f40009b85c4eacc402e59f7ab15",
+  "clientDataCache": {
+    "data": null,
+    "timestamp": 1773097929349
+  },
+  "penguinModeOrgEnabled": true,
+  "metricsStatusCache": {
+    "enabled": true,
+    "vcsAccountLinkingEnabled": false,
+    "timestamp": 1773098057898
+  }
+}
